@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  {% for item in site.weeknotes %}
+  <h2><a href="{{ item.url }}">{{ item.title }}</a></h2>
+  <p>{{ item.description }}</p>
+
+{% endfor %}
+
+</div>
