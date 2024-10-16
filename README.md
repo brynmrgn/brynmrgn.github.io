@@ -1,1 +1,1 @@
-[brynmrgn.github.io](brynmrgn.github.io)
+[brynmrgn.github.io](https://brynmrgn.github.io)
