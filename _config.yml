@@ -39,7 +39,7 @@ title: "Your Site Title"
 heading: "Your Name"
 description: "A brief description of your site"
 url: "https://brynmrgn.github.io"
-baseurl: "/weeknotes-jekyll"
+baseurl: ""
 
 # Asset Configuration
 apple_touch_icon: "/assets/img/profile.png"
